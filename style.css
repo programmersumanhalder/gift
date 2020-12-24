@@ -644,11 +644,3 @@ body {
   text-align: center;
   font-weight: bolder;
 }
-/* media queries*/
-@media (min-width: 320px) and (max-width: 480px) {
-  .scene{
-    width: 1000px;
-    background: red;
-  }
-  
-}
